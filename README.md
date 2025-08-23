@@ -1,1 +1,19 @@
-<img align="left" width="390" alt="🕷️" src="https://raw.githubusercontent.com/spideystreet/metrics/master/metrics.classic.svg">
+<img width="8681" height="4143" alt="kawai-gojo" src="https://github.com/user-attachments/assets/a025322a-83de-4150-b4e8-20f91c570841" />
+&nbsp;&nbsp;&nbsp;
+
+Here you can see about all my activity (even privates !)
+> Because i'm working on some cool top-secret stuff (¬‿¬)
+
+
+&nbsp;&nbsp;&nbsp;
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" alt="epic-gojo" style="width:100%; max-width:400px;" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
+    </td>
+  </tr>
+</table>
+
